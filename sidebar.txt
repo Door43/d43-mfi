@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mfi:home|Door43 (mfi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mfi|d43-mfi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mfi/archive/master.zip|d43-mfi.zip]]
+
+**Recent Changes**
+{{changes>ns = mfi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mfi|Ethnologue data]]
+
